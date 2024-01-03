@@ -7,3 +7,4 @@
 - Quinta línea de commit
 - Último cambio para commit
 - Cambio realizado desde otro usuario
+- Otro texto prueba
